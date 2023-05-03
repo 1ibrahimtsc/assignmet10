@@ -1,0 +1,397 @@
+[
+  {
+    "chef_id": "1",
+    "chef_name": "Mario Batali",
+    "picture": "https://img.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2016/10/17/Style/Images/State_Dinner_Italy-505f5-3353.jpg?uuid=6odt-pS8Eea8ea8c09KYSw",
+    "years_of_experience": 30,
+    "num_recipes": 100,
+    "likes": 25000,
+    "description": "Mario Batali is an American chef, writer, restaurateur, and media personality. He has won numerous awards for his work in the culinary arts, including several James Beard Foundation Awards, and is widely recognized as one of the most successful and influential chefs in the United States.",
+    "recipes": [
+      {
+        "recipeid": 1,
+        "chef_id": 1,
+        "recipe_name": "Spaghetti alla Carbonara",
+        "picture": "https://example.com/carbonara.jpg",
+        "ingredients": [
+          "1 lb spaghetti",
+          "6 oz pancetta",
+          "4 egg yolks",
+          "1 cup grated Pecorino Romano cheese",
+          "Salt and freshly ground black pepper"
+        ],
+        "cooking_method": "some text",
+        "rating": 4.7,
+        "favorite": false
+      },
+      {
+        "recipeid": 2,
+        "chef_id": 1,
+        "recipe_name": "Margherita Pizza",
+        "picture": "https://example.com/margheritapizza.jpg",
+        "ingredients": [
+          "1 lb pizza dough",
+          "1/2 cup tomato sauce",
+          "8 oz fresh mozzarella cheese",
+          "Fresh basil leaves",
+          "Salt and freshly ground black pepper"
+        ],
+        "cooking_method": "some text",
+        "rating": 4.9,
+        "favorite": true
+      },
+      {
+        "recipeid": 3,
+        "chef_id": 1,
+        "recipe_name": "Chicken Parmigiana",
+        "picture": "https://example.com/ossobuco.jpg",
+        "ingredients": [
+          "4 veal shanks",
+          "1 onion",
+          "2 cloves garlic",
+          "1 carrot",
+          "1 celery stalk",
+          "1 can diced tomatoes",
+          "1 cup beef broth",
+          "1/2 cup dry white wine",
+          "1/4 cup all-purpose flour",
+          "2 tbsp olive oil",
+          "Salt and freshly ground black pepper"
+        ],
+        "cooking_method": "some text",
+        "rating": 4.5,
+        "favorite": false
+      }
+    ]
+  },
+
+  {
+    "chef_id": "2",
+    "chef_name": "Lidia Bastianich",
+    "picture": "https://nypost.com/wp-content/uploads/sites/2/2013/08/092310eataly03vw183947-300x300.jpg?quality=75&strip=all",
+    "years_of_experience": 30,
+    "num_recipes": 100,
+    "likes": 25000,
+    "description": "Mario Batali is an American chef, writer, restaurateur, and media personality. He has won numerous awards for his work in the culinary arts, including several James Beard Foundation Awards, and is widely recognized as one of the most successful and influential chefs in the United States.",
+    "recipes": [
+      {
+        "recipeid": 1,
+        "chef_id": 2,
+        "recipe_name": "Lasagna Bolognese",
+        "picture": "https://example.com/carbonara.jpg",
+        "ingredients": [
+          "1 lb spaghetti",
+          "6 oz pancetta",
+          "4 egg yolks",
+          "1 cup grated Pecorino Romano cheese",
+          "Salt and freshly ground black pepper"
+        ],
+        "cooking_method": "some text",
+        "rating": 4.7,
+        "favorite": false
+      },
+      {
+        "recipeid": 2,
+        "chef_id": 2,
+        "recipe_name": "Osso Buco alla Milanese",
+        "picture": "https://example.com/margheritapizza.jpg",
+        "ingredients": [
+          "1 lb pizza dough",
+          "1/2 cup tomato sauce",
+          "8 oz fresh mozzarella cheese",
+          "Fresh basil leaves",
+          "Salt and freshly ground black pepper"
+        ],
+        "cooking_method": "some text",
+        "rating": 4.9,
+        "favorite": true
+      },
+      {
+        "recipeid": 3,
+        "chef_id": 2,
+        "recipe_name": "Risotto alla Milanese",
+        "picture": "https://example.com/ossobuco.jpg",
+        "ingredients": [
+          "4 veal shanks",
+          "1 onion",
+          "2 cloves garlic",
+          "1 carrot",
+          "1 celery stalk",
+          "1 can diced tomatoes",
+          "1 cup beef broth",
+          "1/2 cup dry white wine",
+          "1/4 cup all-purpose flour",
+          "2 tbsp olive oil",
+          "Salt and freshly ground black pepper"
+        ],
+        "cooking_method": "some text",
+        "rating": 4.5,
+        "favorite": false
+      }
+    ]
+  },
+
+  {
+    "chef_id": "3",
+    "chef_name": "Giada De Laurentiis",
+    "picture": "https://cdn.winsightmedia.com/platform/files/public/2021-01/background/800x1000/cooking-demo_1610485072.jpg?VersionId=4JDPJCHehqReg_5zACT.JNPWHUmaRX2O",
+    "years_of_experience": 30,
+    "num_recipes": 100,
+    "likes": 25000,
+    "description": "Mario Batali is an American chef, writer, restaurateur, and media personality. He has won numerous awards for his work in the culinary arts, including several James Beard Foundation Awards, and is widely recognized as one of the most successful and influential chefs in the United States.",
+    "recipes": [
+      {
+        "recipeid": 1,
+        "chef_id": 3,
+        "recipe_name": "Fettuccine Alfredo",
+        "picture": "https://example.com/carbonara.jpg",
+        "ingredients": [
+          "1 lb spaghetti",
+          "6 oz pancetta",
+          "4 egg yolks",
+          "1 cup grated Pecorino Romano cheese",
+          "Salt and freshly ground black pepper"
+        ],
+        "cooking_method": "some text",
+        "rating": 4.7,
+        "favorite": false
+      },
+      {
+        "recipeid": 2,
+        "chef_id": 3,
+        "recipe_name": "Bruschetta al Pomodoro",
+        "picture": "https://example.com/margheritapizza.jpg",
+        "ingredients": [
+          "1 lb pizza dough",
+          "1/2 cup tomato sauce",
+          "8 oz fresh mozzarella cheese",
+          "Fresh basil leaves",
+          "Salt and freshly ground black pepper"
+        ],
+        "cooking_method": "some text",
+        "rating": 4.9,
+        "favorite": true
+      },
+      {
+        "recipeid": 3,
+        "chef_id": 3,
+        "recipe_name": "Gnocchi alla Sorrentina",
+        "picture": "https://example.com/ossobuco.jpg",
+        "ingredients": [
+          "4 veal shanks",
+          "1 onion",
+          "2 cloves garlic",
+          "1 carrot",
+          "1 celery stalk",
+          "1 can diced tomatoes",
+          "1 cup beef broth",
+          "1/2 cup dry white wine",
+          "1/4 cup all-purpose flour",
+          "2 tbsp olive oil",
+          "Salt and freshly ground black pepper"
+        ],
+        "cooking_method": "some text",
+        "rating": 4.5,
+        "favorite": false
+      }
+    ]
+  },
+
+  {
+    "chef_id": "4",
+    "chef_name": "Massimo Bottura",
+    "picture": "https://example.com/mariobatali.jpg",
+    "years_of_experience": 30,
+    "num_recipes": 100,
+    "likes": 25000,
+    "description": "Mario Batali is an American chef, writer, restaurateur, and media personality. He has won numerous awards for his work in the culinary arts, including several James Beard Foundation Awards, and is widely recognized as one of the most successful and influential chefs in the United States.",
+    "recipes": [
+      {
+        "recipeid": 1,
+        "chef_id": 4,
+        "recipe_name": "Caprese Salad",
+        "picture": "https://example.com/carbonara.jpg",
+        "ingredients": [
+          "1 lb spaghetti",
+          "6 oz pancetta",
+          "4 egg yolks",
+          "1 cup grated Pecorino Romano cheese",
+          "Salt and freshly ground black pepper"
+        ],
+        "cooking_method": "some text",
+        "rating": 4.7,
+        "favorite": false
+      },
+      {
+        "recipeid": 2,
+        "chef_id": 4,
+        "recipe_name": "Tiramisu",
+        "picture": "https://example.com/margheritapizza.jpg",
+        "ingredients": [
+          "1 lb pizza dough",
+          "1/2 cup tomato sauce",
+          "8 oz fresh mozzarella cheese",
+          "Fresh basil leaves",
+          "Salt and freshly ground black pepper"
+        ],
+        "cooking_method": "some text",
+        "rating": 4.9,
+        "favorite": true
+      },
+      {
+        "recipeid": 3,
+        "chef_id": 4,
+        "recipe_name": "Pesto alla Genovese",
+        "picture": "https://example.com/ossobuco.jpg",
+        "ingredients": [
+          "4 veal shanks",
+          "1 onion",
+          "2 cloves garlic",
+          "1 carrot",
+          "1 celery stalk",
+          "1 can diced tomatoes",
+          "1 cup beef broth",
+          "1/2 cup dry white wine",
+          "1/4 cup all-purpose flour",
+          "2 tbsp olive oil",
+          "Salt and freshly ground black pepper"
+        ],
+        "cooking_method": "some text",
+        "rating": 4.5,
+        "favorite": false
+      }
+    ]
+  },
+
+  {
+    "chef_id": "5",
+    "chef_name": "Fabio Viviani",
+    "picture": "https://example.com/mariobatali.jpg",
+    "years_of_experience": 30,
+    "num_recipes": 100,
+    "likes": 25000,
+    "description": "Mario Batali is an American chef, writer, restaurateur, and media personality. He has won numerous awards for his work in the culinary arts, including several James Beard Foundation Awards, and is widely recognized as one of the most successful and influential chefs in the United States.",
+    "recipes": [
+      {
+        "recipeid": 1,
+        "chef_id": 5,
+        "recipe_name": "Vitello Tonnato",
+        "picture": "https://example.com/carbonara.jpg",
+        "ingredients": [
+          "1 lb spaghetti",
+          "6 oz pancetta",
+          "4 egg yolks",
+          "1 cup grated Pecorino Romano cheese",
+          "Salt and freshly ground black pepper"
+        ],
+        "cooking_method": "some text",
+        "rating": 4.7,
+        "favorite": false
+      },
+      {
+        "recipeid": 2,
+        "chef_id": 5,
+        "recipe_name": "Cacio e Pepe",
+        "picture": "https://example.com/margheritapizza.jpg",
+        "ingredients": [
+          "1 lb pizza dough",
+          "1/2 cup tomato sauce",
+          "8 oz fresh mozzarella cheese",
+          "Fresh basil leaves",
+          "Salt and freshly ground black pepper"
+        ],
+        "cooking_method": "some text",
+        "rating": 4.9,
+        "favorite": true
+      },
+      {
+        "recipeid": 3,
+        "chef_id": 5,
+        "recipe_name": "Orecchiette with Broccoli Rabe and Sausage",
+        "picture": "https://example.com/ossobuco.jpg",
+        "ingredients": [
+          "4 veal shanks",
+          "1 onion",
+          "2 cloves garlic",
+          "1 carrot",
+          "1 celery stalk",
+          "1 can diced tomatoes",
+          "1 cup beef broth",
+          "1/2 cup dry white wine",
+          "1/4 cup all-purpose flour",
+          "2 tbsp olive oil",
+          "Salt and freshly ground black pepper"
+        ],
+        "cooking_method": "some text",
+        "rating": 4.5,
+        "favorite": false
+      }
+    ]
+  },
+
+  {
+    "chef_id": "6",
+    "chef_name": "Gennaro Contaldo",
+    "picture": "https://example.com/mariobatali.jpg",
+    "years_of_experience": 30,
+    "num_recipes": 100,
+    "likes": 25000,
+    "description": "Mario Batali is an American chef, writer, restaurateur, and media personality. He has won numerous awards for his work in the culinary arts, including several James Beard Foundation Awards, and is widely recognized as one of the most successful and influential chefs in the United States.",
+    "recipes": [
+      {
+        "recipeid": 1,
+        "chef_id": 6,
+        "recipe_name": "Arancini",
+        "picture": "https://example.com/carbonara.jpg",
+        "ingredients": [
+          "1 lb spaghetti",
+          "6 oz pancetta",
+          "4 egg yolks",
+          "1 cup grated Pecorino Romano cheese",
+          "Salt and freshly ground black pepper"
+        ],
+        "cooking_method": "some text",
+        "rating": 4.7,
+        "favorite": false
+      },
+      {
+        "recipeid": 2,
+        "chef_id": 6,
+        "recipe_name": "Panzanella Salad",
+        "picture": "https://example.com/margheritapizza.jpg",
+        "ingredients": [
+          "1 lb pizza dough",
+          "1/2 cup tomato sauce",
+          "8 oz fresh mozzarella cheese",
+          "Fresh basil leaves",
+          "Salt and freshly ground black pepper"
+        ],
+        "cooking_method": "some text",
+        "rating": 4.9,
+        "favorite": true
+      },
+      {
+        "recipeid": 3,
+        "chef_id": 6,
+        "recipe_name": "Cioppino",
+        "picture": "https://example.com/ossobuco.jpg",
+        "ingredients": [
+          "4 veal shanks",
+          "1 onion",
+          "2 cloves garlic",
+          "1 carrot",
+          "1 celery stalk",
+          "1 can diced tomatoes",
+          "1 cup beef broth",
+          "1/2 cup dry white wine",
+          "1/4 cup all-purpose flour",
+          "2 tbsp olive oil",
+          "Salt and freshly ground black pepper"
+        ],
+        "cooking_method": "some text",
+        "rating": 4.5,
+        "favorite": false
+      }
+    ]
+  }
+]
